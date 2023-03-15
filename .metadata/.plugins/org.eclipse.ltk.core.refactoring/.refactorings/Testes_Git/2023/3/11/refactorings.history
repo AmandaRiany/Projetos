@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;iniciando_testes.Teste&apos; to &apos;Principal&apos;&#x0D;&#x0A;- Original project: &apos;Testes_Git&apos;&#x0D;&#x0A;- Original element: &apos;iniciando_testes.Teste&apos;&#x0D;&#x0A;- Renamed element: &apos;iniciando_testes.Principal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Teste&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;iniciando_testes{Teste.java[Teste" matchStrategy="1" name="Principal" qualified="false" references="true" similarDeclarations="false" stamp="1678886943852" textual="false" version="1.0"/>
+</session>

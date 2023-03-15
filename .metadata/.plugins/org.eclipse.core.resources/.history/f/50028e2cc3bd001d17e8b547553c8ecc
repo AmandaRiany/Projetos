@@ -1,0 +1,16 @@
+package praticando_em_aula;
+
+public class Secundario {
+   
+	public int Somar (int a, int b ) {
+		
+		int c; 
+		c =a%b;
+		
+		return c;
+		
+		
+	}
+   
+	
+}
